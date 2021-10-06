@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"stdbool.h": "c",
+		"string.h": "c",
+		"*.tcc": "c",
+		"cstdio": "c",
+		"string_view": "c",
+		"functional": "c",
+		"stdio.h": "c",
+		"stdlib.h": "c",
+		"E5_13.C": "cpp"
+	}
+}
